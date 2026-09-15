@@ -436,15 +436,15 @@
       "At some point, this probably stops being disrespect and starts becoming a personal issue."
     ]
   },
-  "publishedAt": "2026-09-15T13:40:57.266Z",
+  "publishedAt": "2026-09-15T13:44:49.638Z",
   "week": 1,
   "stats": {
     "1": {
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "ties": 0,
-      "pf": 0,
-      "pa": 0,
+      "pf": 128.58,
+      "pa": 146.3,
       "streak": "L1",
       "form": [
         "L"
@@ -463,10 +463,10 @@
     },
     "2": {
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "ties": 0,
-      "pf": 0,
-      "pa": 0,
+      "pf": 15,
+      "pa": 126.74,
       "streak": "L1",
       "form": [
         "L"
@@ -484,11 +484,11 @@
       }
     },
     "3": {
-      "wins": 0,
+      "wins": 1,
       "losses": 0,
       "ties": 0,
-      "pf": 0,
-      "pa": 0,
+      "pf": 142.42,
+      "pa": 128.76,
       "streak": "W1",
       "form": [
         "W"
@@ -507,10 +507,10 @@
     },
     "4": {
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "ties": 0,
-      "pf": 0,
-      "pa": 0,
+      "pf": 113.8,
+      "pa": 159.28,
       "streak": "L1",
       "form": [
         "L"
@@ -529,10 +529,10 @@
     },
     "5": {
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "ties": 0,
-      "pf": 0,
-      "pa": 0,
+      "pf": 56.9,
+      "pa": 121.48,
       "streak": "L1",
       "form": [
         "L"
@@ -550,11 +550,11 @@
       }
     },
     "6": {
-      "wins": 0,
+      "wins": 1,
       "losses": 0,
       "ties": 0,
-      "pf": 0,
-      "pa": 0,
+      "pf": 121.48,
+      "pa": 56.9,
       "streak": "W1",
       "form": [
         "W"
@@ -572,11 +572,11 @@
       }
     },
     "7": {
-      "wins": 0,
+      "wins": 1,
       "losses": 0,
       "ties": 0,
-      "pf": 0,
-      "pa": 0,
+      "pf": 126.74,
+      "pa": 15,
       "streak": "W1",
       "form": [
         "W"
@@ -595,10 +595,10 @@
     },
     "8": {
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "ties": 0,
-      "pf": 0,
-      "pa": 0,
+      "pf": 128.76,
+      "pa": 142.42,
       "streak": "L1",
       "form": [
         "L"
@@ -616,11 +616,11 @@
       }
     },
     "9": {
-      "wins": 0,
+      "wins": 1,
       "losses": 0,
       "ties": 0,
-      "pf": 0,
-      "pa": 0,
+      "pf": 146.3,
+      "pa": 128.58,
       "streak": "W1",
       "form": [
         "W"
@@ -638,11 +638,11 @@
       }
     },
     "10": {
-      "wins": 0,
+      "wins": 1,
       "losses": 0,
       "ties": 0,
-      "pf": 0,
-      "pa": 0,
+      "pf": 158.26,
+      "pa": 111.2,
       "streak": "W1",
       "form": [
         "W"
@@ -661,10 +661,10 @@
     },
     "11": {
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "ties": 0,
-      "pf": 0,
-      "pa": 0,
+      "pf": 111.2,
+      "pa": 158.26,
       "streak": "L1",
       "form": [
         "L"
@@ -682,11 +682,11 @@
       }
     },
     "12": {
-      "wins": 0,
+      "wins": 1,
       "losses": 0,
       "ties": 0,
-      "pf": 0,
-      "pa": 0,
+      "pf": 159.28,
+      "pa": 113.8,
       "streak": "W1",
       "form": [
         "W"
@@ -728,8 +728,9 @@
       "team": "Dallas Drip"
     },
     "luck": {
-      "note": "",
-      "val": ""
+      "gap": 0.6363636363636364,
+      "note": "Dallas Drip",
+      "val": "0-1 real, 1-0 all-play"
     }
   }
 }
