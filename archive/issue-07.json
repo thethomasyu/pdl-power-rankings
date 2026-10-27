@@ -1,0 +1,705 @@
+{
+  "issue": 7,
+  "title": "PDL Week 8",
+  "season": "2026",
+  "coldOpen": "Greg held a going-out-of-business sale and then beat one of his biggest customers. Darren lost to Dallas twice in 24 hours, Brian’s hypothetical superteam is now 1-6, and Jeff’s most dependable receiver is somehow Tre Tucker.\n\nWelcome to Week 8 of the PDL Power Rankings.",
+  "order": [
+    3,
+    12,
+    10,
+    8,
+    7,
+    4,
+    1,
+    9,
+    6,
+    11,
+    5,
+    2
+  ],
+  "prevRanks": {
+    "1": 6,
+    "2": 12,
+    "3": 1,
+    "4": 7,
+    "5": 11,
+    "6": 9,
+    "7": 4,
+    "8": 5,
+    "9": 8,
+    "10": 2,
+    "11": 10,
+    "12": 3
+  },
+  "blurbs": {
+    "1": [
+      "I'm starting to think the best thing that could happen to Delco is for me to have absolutely no control over my lineup.",
+      "Lamar is still out, Hurts is done for the season, Smitty is hurt, and Tyler Warren has apparently decided to join everyone else in the medical tent.",
+      "I've spent the past several weeks starting whoever is still capable of putting on a uniform, and somehow this team has won two straight games.",
+      "I spent an entire offseason trying to construct a competitive dynasty roster, and apparently the missing ingredient was removing my ability to make decisions.",
+      "Delco is now 4-3 after beating Brett 125.54 to 68.70.",
+      "Granted, Brett was missing Trevor Lawrence and Omarion Hampton, so I'm not going to pretend I just beat the 2007 Patriots.",
+      "But after knocking off Mike last week, I'll happily take a Sunday where I can check the score without immediately regretting every decision I've made since joining this league.",
+      "And JOSH JACOBS FINALLY PLAYED FOOTBALL.",
+      "Six weeks of staring at that little red OUT designation, and Jacobs immediately returned with 17.60 points, including a receiving touchdown against Detroit.",
+      "Jameson Williams was on the other sideline catching TWO touchdowns of his own.",
+      "Between them, I got 40.20 points out of a single NFL game, which is especially satisfying considering I've spent most of this season wondering whether either player would ever contribute consistently to this team.",
+      "Jamo now has four touchdowns in his last two games.",
+      "Speaking of receivers I have an unhealthy emotional investment in, Mitsubishi Marv caught his first touchdown as a Houston Texan!",
+      "It was a six-yard reception. His only catch of the game.",
+      "CBS Sports actually published an entire article about it, and I'm embarrassed by how excited I was to see that headline.",
+      "We've reached a point where Marvin catching ONE football warrants national coverage and I'm sitting here treating it like his official arrival as an NFL superstar.",
+      "Somewhere in Houston, C.J. Stroud is probably wondering why everyone is celebrating a six-yard pass like they just reunited Montana and Rice.",
+      "Jacobs is back, Kyren continues to be productive, Lamar should be returning, and Shough has become a reasonably dependable fantasy quarterback.",
+      "I'm also waiting on Warren and Smitty, which could give me something resembling the lineup I originally intended to start this season.",
+      "We're 4-3, sitting above .500, and somehow heading into Week 8 with a better record than several teams I would've confidently picked to beat me a month ago.",
+      "I would appreciate it if nobody started taking Delco seriously.",
+      "I've been enjoying the lack of expectations, and I really don't need another reason to spend my entire Sunday staring at Sleeper."
+    ],
+    "2": [
+      "I was watching the Eagles get embarrassed by Dallas on Monday night when I realized something that made the entire experience considerably worse.",
+      "Tanner McKee was starting, Joe Milton was his backup, and BOTH quarterbacks belong to the Connecticut Crocs.",
+      "Howie Roseman has somehow arrived at a point where Philadelphia's quarterback depth chart is being supplied by the worst team in the PDL.",
+      "I've spent seven weeks making fun of Joe's roster, only to discover that my favorite NFL franchise is apparently using it as a reference.",
+      "And McKee wasn't even terrible!",
+      "He threw for 211 yards and a touchdown, although the late interception certainly didn't help matters.",
+      "Philadelphia lost 38-21, Joe got 11.54 fantasy points, and I'm now genuinely concerned that if McKee struggles again, the Eagles will turn to Joe Milton.",
+      "Two quarterbacks I wouldn't have trusted to start for Delco in September are now the only things standing between me and my mental health.",
+      "So when does football get fun again?",
+      "Meanwhile, Mason Taylor apparently decided National Tight Ends Day was the perfect occasion to humiliate his father's former team.",
+      "Jason Taylor spent 13 seasons terrorizing opposing quarterbacks in Miami, and now his son is catching two touchdowns and a two-point conversion against the Dolphins.",
+      "He finished with 25.20 fantasy points, more than the other NINE starters on Connecticut combined.",
+      "The Jets still lost.",
+      "I'm actually starting to appreciate just how much overlap there is between Joe's roster and the organizations currently making my Sundays miserable.",
+      "The Crocs finished with 45.44 points against Jeff, who scored 145.28 and probably didn't bother checking the matchup after Thursday.",
+      "Joe is now 0-7, and for once I don't have much to say about the actual losing. We established months ago that this season was going to be a formality.",
+      "What I didn't anticipate was Joe's quarterback room becoming a legitimate problem in my personal life.",
+      "If Howie Roseman starts scouting Dante Moore and Mestemaker this offseason, I'm going to need him to stay the hell away from Joe's draft board."
+    ],
+    "3": [
+      "Patrick Mahomes, Travis Kelce, and Derrick Henry combined for 18.80 fantasy points this week.",
+      "Tre Tucker scored 18.80 BY HIMSELF.",
+      "Jeff has spent the better part of a year acquiring nearly every recognizable name in professional football, and somehow the guy keeping his receiving room alive is a Raiders wideout who entered the season as an afterthought.",
+      "Sunday Night Football was particularly enjoyable if you weren't Jeff.",
+      "Kenneth Walker returned to Seattle for the first time since leaving as Super Bowl MVP, and his former teammates welcomed him back by holding him to 36 rushing yards.",
+      "Mahomes finished with five fantasy points, Kelce contributed 8.40, and the previously undefeated Chiefs managed THREE points against the Seahawks.",
+      "Patrick Mahomes has been in the NFL for nearly a decade, and Seattle just prevented him from reaching the red zone for an entire football game.",
+      "So maybe Matt Nagy wasn't the problem in KC?",
+      "Fortunately, Jeff also owns Joe Burrow, who apparently decided that Cincinnati's entire offensive production could be condensed into thirty minutes.",
+      "Baltimore led 13-0 at halftime before Burrow threw four touchdowns and the Bengals scored 35 unanswered points.",
+      "Jeff also owns Zay Flowers, who caught Baltimore's only touchdown.",
+      "He had the one Raven who scored before halftime and the Bengal responsible for four touchdowns after it.",
+      "That's 60.58 fantasy points from a game that turned into an absolute massacre.",
+      "I think the more interesting concern is how quickly this receiving room has changed.",
+      "Remember when we were debating whether Jeff should pursue Nico Collins or Khalil Shakir?",
+      "He went out and acquired Derrick Henry and Courtland Sutton instead.",
+      "Now Davante Adams is on IR, Deebo is unavailable, A.J. Brown has been wildly inconsistent, and Sutton has scored fewer than nine points in every appearance since arriving.",
+      "Tucker has become one of the few receivers Jeff can actually rely on.",
+      "I don't think that was part of the original shopping list.",
+      "And while Jeff was collecting another win against Joe, Tanish was busy putting up 151.26 against Hollywood.",
+      "That's three consecutive weeks Boulder has outscored Wichita, and the defending champion has now pulled within striking distance of the season-long scoring lead.",
+      "I'm leaving Jeff at #1 because he still has the highest scoring average in the league, and a 6-1 team with this much talent deserves some benefit of the doubt.",
+      "But I don't think the gap between these two teams is nearly as comfortable as it was a month ago.",
+      "Tanish has been the better scorer recently, and Jeff is suddenly facing legitimate questions about a position he spent the offseason trying to improve.",
+      "The good news is that Jeff still has enough running backs to survive a minor natural disaster and two quarterbacks who can win him a matchup by themselves.",
+      "The bad news is that we may have finally reached the point where throwing more draft picks at the problem isn't an option. Jeff's next first-round pick isn't until 2029.",
+      "I suppose there's always FAAB."
+    ],
+    "4": [
+      "Darren spent the end of our latest podcast praising Bryce Young as one of the biggest surprises of the NFL season.",
+      "I agreed, started talking about how we were finally seeing Alabama Bryce again, and generally spent far too much time congratulating ourselves for believing in him.",
+      "Four days later, Bryce threw two interceptions, lost a fumble that was returned for a touchdown, and Carolina got demolished 43-13 by Tampa Bay.",
+      "Baker Mayfield completed SEVEN passes for 64 yards in the victory.",
+      "Seven.",
+      "Max, I sincerely apologize for whatever we did to your quarterback.",
+      "Fortunately, none of that mattered because Max was playing Jon, who remains winless and apparently incapable of fielding a quarterback who actually throws the football.",
+      "Murphy Street won 89.24 to 71.50, improving to 5-2 on the season.",
+      "I'd like everyone to appreciate something here.",
+      "Max has now beaten Joe and Jon within the past three weeks, scoring 74.72 and 89.24 points in those respective matchups.",
+      "That's 163.96 points COMBINED for two victories.",
+      "Darren scored 174.82 in a single game against Tanish and LOST.",
+      "And what a difference a week makes.",
+      "Max was the second-highest scorer in the PDL last week with Ja'Marr Chase on bye.",
+      "Chase returned, and the team promptly scored 55 fewer points.",
+      "Coker disappeared, Carnell Tate cooled off, and Xavier Worthy contributed 2.60 points.",
+      "Demario Douglas actually had a terrific afternoon with 20 points, although he was watching the action from Max's bench.",
+      "I'm also concerned about what happens to the depth of this roster if the injuries continue.",
+      "Romeo Doubs was placed on IR shortly after Max wanted to take a victory lap over his touchdown performance.",
+      "Ladd McConkey remains unavailable, Monangai is still hurt, and Jordan Mason's return hasn't exactly solved the running back situation.",
+      "Woody Marks continues to get meaningful work in Houston, but Max is still relying on an awful lot of things going right for those two starting spots to produce consistently.",
+      "There's a pretty amusing contrast developing between Murphy Street and Hollywood, too.",
+      "Brian has spent two first-round picks acquiring Nico Collins and Tee Higgins, is scoring more points per week than Max, and has ONE win.",
+      "Max traded away Dak, accumulated additional draft capital, and is sitting at 5-2 while supposedly transitioning toward a younger roster.",
+      "I don't think either owner expected their seasons to look quite like this.",
+      "I'm keeping Max at sixth because there's enough here to compete, particularly with Chase, Stroud and the improvements we've seen from Bryce.",
+      "But his scoring still trails several teams with significantly worse records, and two of his last three performances haven't reached 90 points.",
+      "Five wins through seven weeks is excellent, especially for a team that wasn't supposed to be going all-in this year.",
+      "I'm just asking that we eventually see Max win a game where the opposing quarterback is legally required to attempt a forward pass."
+    ],
+    "5": [
+      "I don't think Jon could have picked a more frustrating week for his rookie receivers to finally start playing football.",
+      "Omar Cooper followed up his breakout performance with another 115 yards and a touchdown, and this time Jon actually remembered to start him.",
+      "Makai Lemon caught his first NFL touchdown Monday night, and Malachi Fields had the best game of his young career with 83 receiving yards.",
+      "Richmond's three starting receivers combined for 46.50 points, which might be the first time all season I've mentioned Jon's rookie class without having to immediately apologize for something.",
+      "Unfortunately, his starting quarterback finished with negative points because he took a knee.",
+      "Twice.",
+      "Baker Mayfield returned from his thumb injury Sunday and Tampa Bay proceeded to beat Carolina 43-13. Jalon Daniels came in late, handed the ball off a few times, and then kneeled out the final two plays of the game.",
+      "His entire statistical contribution was two rushing attempts for negative three yards. That's -0.30 fantasy points.",
+      "Tampa Bay scored FORTY-THREE points and Jon somehow managed to start the one quarterback on their roster who lost fantasy points by participating in the victory.",
+      "And the worst part? Max scored 89.24 against Richmond.",
+      "Jon needed a measly 18-point performance from his quarterback to get his first win of the season.",
+      "Instead, he lost 89.24 to 71.50, in part because the Buccaneers were apparently TOO successful at playing football.",
+      "I know the obvious question is why Jon was starting Daniels with Baker returning, but take a look at his bench.",
+      "Fernando Mendoza didn't play. Shedeur Sanders didn't play. Ty Simpson is hurt. Taylen Green is hurt. Cameron Payton is out.",
+      "Jon currently has SIX quarterbacks on his roster, and not a single one of them attempted a pass this week.",
+      "I'm not even sure how you accomplish that in a Superflex league.",
+      "The frustrating thing is that we're finally seeing some of the potential we were talking about when Jon invested so heavily in the 2026 class.",
+      "Cooper has now posted consecutive 100-yard games, Lemon is beginning to find opportunities in Philadelphia, and Fields is getting meaningful work in New York.",
+      "Even Kaytron Black contributed double-digit points this week.",
+      "For a team that was struggling to find one productive rookie a month ago, that's a pretty significant development.",
+      "But Jon is now 0-7, and the quarterback situation is becoming almost impossible to ignore, but it looks like it could almost be Nando time.",
+      "I'm just asking for one forward pass next week, Jon. We can worry about completing it later."
+    ],
+    "6": [
+      "Somewhere in California, Jim Harbaugh is looking at his 0-6 Chargers and wondering why nobody gives him the same benefit of the doubt that Hollywood gets on our podcast.",
+      "I've heard that Brian has a better roster than Delco over a dozen times this season.",
+      "The Chargers at least had the courtesy to take their bye week and avoid another loss.",
+      "Brian had to face Tanish, who promptly beat him 151.26 to 108.06.",
+      "And I know what Brian is going to say.",
+      "Egbuka was out, Parker Washington and Tuten were on bye, Jeremiyah Love is still injured.",
+      "Fine.",
+      "Those are legitimate absences.",
+      "But at some point, we have to evaluate the players Hollywood actually has available rather than the lineup everyone keeps promising me is coming.",
+      "Tee Higgins certainly did his part.",
+      "Cincinnati scored 35 unanswered points against Baltimore, and Higgins finished with 148 yards and a touchdown.",
+      "That's exactly the kind of production Brian paid a first-round pick to acquire.",
+      "Unfortunately, Nico Collins, his OTHER expensive receiver acquisition, contributed two catches for six yards against the Giants.",
+      "Houston traded for Moped Marv two weeks ago, and Nico has now produced a combined 11 fantasy points since.",
+      "I would like to thank the Texans for finding a way to make that transaction concerning for both of us.",
+      "What's particularly ridiculous is that Brian had FOUR productive quarterbacks this week.",
+      "Jordan Love and Kirk Cousins combined for 44.36 points, while Malik Willis scored 30.02 and Michael Penix added 26.42 from the bench.",
+      "Penix even managed to hand the previously undefeated 49ers their first loss of the season.",
+      "Brian owns the quarterback who just beat a 6-0 NFL team and is somehow staring at his sixth consecutive PDL loss.",
+      "I'm not criticizing the lineup decisions, either.",
+      "His starting quarterbacks were perfectly fine.",
+      "But when you're getting that much production from four different guys in a Superflex league, you have to wonder whether there's an opportunity to address some of the other positions.",
+      "Brian has enough quarterbacks to survive a pretty significant injury, while Cade Otton is currently occupying a flex spot and contributing absolutely nothing.",
+      "I do like the two smaller acquisitions he made this week.",
+      "Getting J.K. Dobbins from Brett for a 2029 fourth is excellent value, and Keenan Allen for $28 in FAAB is the kind of low-risk move that makes sense for someone trying to sneak into the playoffs.",
+      "Dobbins even found the end zone in his Hollywood debut.",
+      "These are the deals Brian should be making when he has already committed so much draft capital to Nico and Higgins.",
+      "But that commitment is also what makes this situation interesting.",
+      "Brian is now 1-6, doesn't own his next two first-round picks, and has to pursue the points-based sixth seed while hoping the rest of his roster eventually gets healthy.",
+      "I actually think he has a reasonable chance of getting there, but he's running out of Sundays to keep waiting for everyone to contribute at once.",
+      "We're approaching November.",
+      "Hollywood has one win, four productive quarterbacks, a receiving room everyone loves, and a very real opportunity to make the playoffs despite all of this.",
+      "If Brian actually sneaks into the postseason with two or three wins, that is the ultimate chaos that McFatty has been dreaming about."
+    ],
+    "7": [
+      "Darren lost to Dallas twice this week.",
+      "First, the Cowboys walked into Lincoln Financial Field and embarrassed the Eagles 38-21.",
+      "Then Welch's Dallas Drip put up 172.50 points against Philadelphia Thunder, handing Darren his second consecutive loss to an organization based in Dallas in roughly 24 hours.",
+      "And the worst part?",
+      "Darren actually NEEDED the Cowboys to play well Monday night.",
+      "Javonte Williams ran for 155 yards and a touchdown, CeeDee Lamb caught two touchdowns of his own, and both were starting for Philadelphia Thunder.",
+      "Darren spent the evening watching two of his fantasy players dismantle his favorite NFL team, only to lose his fantasy matchup anyway.",
+      "I'm not sure there's a more miserable way to enjoy a 43-point performance from two of your own players.",
+      "Remember, Darren just knocked off Jeff last week, handing Wichita its first loss of the season.",
+      "Welch, meanwhile, was coming off an 81.64-point performance against Joe.",
+      "Seven days later, Welch nearly DOUBLED that score against Darren.",
+      "Apparently, all it took to fix Dallas was getting the Detroit players back and putting Darren on the schedule.",
+      "And it's not like Philadelphia played poorly.",
+      "Stafford continued his strong season, Swift was productive again, and Darren's tight ends contributed another 28.10 points.",
+      "The receiving room was a different story.",
+      "Garrett Wilson finished with 3.60 points, Matthew Golden contributed 6.90, and Luther Burden put up 21.70 on the bench.",
+      "I did the math, Darren.",
+      "Even if you had started Burden over Wilson, you would've lost by 0.88 points.",
+      "Darren spent a good portion of our discussion explaining why the PDL's points-based sixth seed is so important, particularly for teams that keep getting unfortunate matchups.",
+      "Well, Darren has now scored 174.82 against Tanish and 153.52 against Welch and LOST both games.",
+      "That's 328.34 points in two losses.",
+      "He even brought up the hypothetical scenario where TWO high-scoring teams could get screwed by the schedule and only one would benefit from the wild card.",
+      "For all of that, I still think Philadelphia belongs among the best teams in the league.",
+      "Gibbs, Stafford, Lamb, Bowers and Kittle give him more than enough firepower to compete with anyone, and the younger receivers are beginning to provide some legitimate depth.",
+      "I'm less convinced about how consistently he can count on that third receiver spot, especially with Mike Evans hurt, but there aren't many rosters capable of scoring 153 points while getting so little from two starting receivers.",
+      "Darren is 4-3 despite averaging more than 157 points per game.",
+      "He's beaten Jeff, lost to Tanish while scoring 174, and now watched Welch have his best performance of the season against him.",
+      "At least the Eagles have next Sunday to make him feel better.",
+      "Actually, I've seen their schedule.",
+      "Never mind.",
+      "Here comes the closeted Giants fan."
+    ],
+    "8": [
+      "Tony Pollard scored THREE touchdowns against Cleveland this week, rushing for 129 yards and finishing with 35 fantasy points.",
+      "Welch had him on the bench.",
+      "I spent the past two weeks questioning whether Dallas had enough running backs to seriously compete for a championship, and apparently Welch's response was to leave an RB1 performance completely unused while leading the PDL with 172.50 points.",
+      "I would appreciate a little more cooperation from these owners when I'm trying to evaluate their teams.",
+      "Remember, this is the same Dallas team that scored 81.64 points against Joe LAST WEEK.",
+      "Eighty-one! Against Connecticut!",
+      "Seven days later, Welch nearly doubled that production against Darren, who had just handed Jeff his first loss of the season.",
+      "Dak Prescott certainly picked an excellent time to remember how to play quarterback.",
+      "After throwing four interceptions over his previous two games, Dak walked into Lincoln Financial Field and threw three touchdowns against my beloved Eagles.",
+      "He finished with 29.28 fantasy points, and I'm pretty sure the Philadelphia secondary would've let him throw a fourth if Dallas hadn't spent the final five minutes running the football directly down their throats.",
+      "Congratulations to Welch on finding the one quarterback performance that could simultaneously ruin my Monday night and Darren's entire fantasy weekend.",
+      "And the Detroit stack is back.",
+      "Goff and Amon-Ra combined for 41.72 points, with St. Brown hauling in 153 yards against Green Bay.",
+      "Trey McBride also celebrated National Tight Ends Day with 111 yards and a touchdown, finishing with 27.10 points.",
+      "What's particularly encouraging is the running back situation that we just touched on.",
+      "Bucky Irving is playing terrific football, RJ Harvey has become a serviceable option, and Pollard just reminded everyone that he's capable of producing a monster week.",
+      "Montgomery remains unavailable, Conner and Benson are on IR, and Welch is still somehow finding useful production from a position I thought would be his biggest liability.",
+      "With McLaurin now out for the year, he'll need that flexibility more than ever.",
+      "Now, I know what some of you are thinking.",
+      "Welch moves up to #4 this week, ahead of Darren, and I can already hear the objections.",
+      "Darren scored 153.52 points, which would've beaten everyone in the PDL except Welch and Greg.",
+      "Unfortunately, one of them happened to be on his schedule.",
+      "Darren still has the better scoring average, and I'm sure he'll remind me of that on the next podcast.",
+      "I'm equally sure he'll find a way to leave out the part where Welch just beat him by 19 points.",
+      "Dallas has now scored 162.28, 81.64, and 172.50 over the past three weeks, so I'm not quite ready to put Welch alongside the three teams at the top.",
+      "But he's 5-2, just beat a legitimate contender, and has shown he can put up the kind of numbers needed to win a championship."
+    ],
+    "9": [
+      "I spent the last two weeks accusing Greg of tilting, questioning his decision-making, and wondering whether he had completely lost his mind.",
+      "Naturally, London responded by scoring 158.16 points against Mike, handing Southern Oregon its second consecutive loss and putting up the second-highest score in the PDL this week.",
+      "I'd like to point out that Jeff, Brian and Mike, the three owners who have acquired some of Greg's most valuable players, ALL scored fewer points than London.",
+      "Greg sold these guys his best veterans and then proceeded to outscore every single one of them.",
+      "I'm sure that's exactly how he drew it up.",
+      "And apparently the liquidation sale is over?",
+      "Because Greg just traded a 2029 third to Brett for Khalil Shakir.",
+      "I had barely finished writing about him giving up on the season, and he's already buying receivers again.",
+      "What's particularly interesting is that he sold Courtland Sutton for a 2028 third and essentially turned around and acquired a younger receiver for a pick one year further out.",
+      "Classic Greg asset management.",
+      "Meanwhile, Geno Smith and Bo Nix combined for 56.76 points, Quinshon Judkins continues to look like a terrific investment, and even Emanuel Wilson contributed 18 points.",
+      "London managed all of this with Jayden Noel scoring 0.70 and Rome Odunze having another relatively quiet afternoon.",
+      "Blake Corum even put up 16.60 on the bench.",
+      "I'm looking at this roster and beginning to wonder if Greg would've been better off just turning his phone off for the first six weeks of the season.",
+      "And then there's Mike, who was 5-0 two weeks ago and is now 5-2 after losing to Delco and London in consecutive weeks.",
+      "I imagine he was looking forward to this matchup after watching Greg trade away half his starting lineup.",
+      "Instead, he got beaten by 52 points while Geno Smith was throwing three touchdowns in a losing effort against the previously winless Dolphins.",
+      "The funny thing is that I still don't necessarily disagree with Greg's decision to get younger.",
+      "He received legitimate draft capital for Henry and Higgins, still has Bijan and Judkins, and clearly hasn't abandoned the idea of acquiring productive players.",
+      "I just remain baffled by how quickly he went from assembling a championship contender to preparing for 2028, only to immediately put up his best score of the season.",
+      "London is now 3-4, and I'm genuinely curious what happens next.",
+      "Greg might actually be able to compete for a playoff spot while continuing to rebuild, which would be an impressive outcome considering the circumstances.",
+      "I picked this man to win the championship, spent the last two weeks calling him a tilter, and now have to explain why I'm keeping him eighth after he just embarrassed Mike.",
+      "I'm having a wonderful season as a PDL analyst."
+    ],
+    "10": [
+      "Mike spent the first five weeks of the season looking practically unbeatable.",
+      "We were having legitimate conversations about whether this team could go undefeated, and I was starting to wonder whether the rest of us should just skip the playoffs and hand him the trophy.",
+      "Fast forward two weeks, and Southern Oregon has lost to Delco AND London.",
+      "The same Greg who spent the previous month selling players to Mike and Jeff just beat Mike by 52.44 points.",
+      "I don't think I've ever seen someone go from being the league's most intimidating team to getting bullied by the middle of my power rankings quite this quickly.",
+      "And the funniest part is that Mike FINALLY got the running back production we've been begging him to find.",
+      "Ollie Gordon rushed for 103 yards and a touchdown, helping Miami secure its first win of the season, and Ashton Jeanty contributed another 17.60 points.",
+      "That's 34.40 combined from a position group that we've spent approximately six podcast episodes discussing as Southern Oregon's biggest weakness.",
+      "Apparently, we should've been checking on everyone else.",
+      "Josh Allen was on bye, so Brock Purdy took over at quarterback and promptly threw two interceptions against Atlanta, helping the Falcons hand San Francisco its first loss of the season.",
+      "Justin Jefferson managed 44 receiving yards, Waddle contributed 6.80 points, and Isaiah Likely and Sam LaPorta combined for SIX points.",
+      "Two weeks ago, I was looking at those two tight ends and wondering how anyone was supposed to compete with that kind of production.",
+      "This week, Dalton Schultz would've outscored them both by himself.",
+      "And poor Chris Olave.",
+      "He traveled all the way to Paris for the NFL's first regular-season game in France, caught six passes for 56 yards, and returned home with 8.60 fantasy points.",
+      "Mike acquired him from Greg earlier this season, and now Greg gets to enjoy beating his former receiver's new team while Olave is sightseeing around the Eiffel Tower.",
+      "I will say that the timing of this losing streak is pretty remarkable.",
+      "Jeff finally loses, opening the door for Mike to claim the top spot, and instead Southern Oregon has its two worst performances of the season in consecutive weeks.",
+      "Meanwhile, Tanish has scored 197.72, 145.50, and 151.26 over the past three weeks.",
+      "There's simply no way I can justify keeping Mike ahead of Boulder right now.",
+      "The good news for Mike is that Josh Allen returns next week, Jefferson and Puka are still elite, and the running backs might actually be finding their footing.",
+      "I still consider Southern Oregon one of the favorites to win the championship, but I'm no longer convinced the rest of us are merely competing for second place.",
+      "Mike was 5-0 when we started asking whether anyone could beat him.",
+      "Turns out we should've been asking Greg."
+    ],
+    "11": [
+      "Last week Brett specifically requested that I acknowledge his three-game winning streak.",
+      "I gave him the recognition he wanted, questioned the quality of his opponents, and then had the pleasure of facing him myself.",
+      "Naturally, Dubrovnik followed that up with 68.70 points, and Delco won by nearly 57.",
+      "I'd love to take credit for ending the streak, but Brett showed up with Trevor Lawrence on bye and Jaxson Dart on IR.",
+      "I'm still counting it as a quality win, and I'd appreciate it if nobody looked into the circumstances any further.",
+      "The absence of Lawrence certainly explains some of the damage, although even giving him and Omarion Hampton their season averages would've left Brett about 25 points short.",
+      "Tucker Kraft and Colston Loveland combined for 34.70 points, accounting for more than HALF of Dubrovnik's entire offensive production.",
+      "Tetairoa McMillan, Denzel Boston and Jordan Addison combined for 13.50.",
+      "I'm pretty sure Brett's two tight ends could've played the entire second half without the rest of the roster and nobody would've noticed.",
+      "And while I was busy enjoying my victory, Brett was apparently back to business.",
+      "J.K. Dobbins was shipped to Hollywood for a 2029 fourth, and Khalil Shakir subsequently went to London for a 2029 third.",
+      "Brian has spent the past month trying to assemble a competitive roster without any remaining first-round ammunition, and Brett just handed him another usable running back for a pick three drafts away.",
+      "Shakir is an interesting one, too, especially considering Greg spent the previous week unloading Higgins and Sutton.",
+      "Apparently, London has decided it would still like to employ a few wide receivers after all.",
+      "I don't necessarily disagree with Brett continuing to sell.",
+      "In fact, his last two weeks have probably reinforced why he shouldn't abandon the rebuild just because he briefly reached .500.",
+      "He's still averaging under 100 points per game, Dart remains unavailable, and the young receivers are going to have afternoons like this while they develop.",
+      "There's enough talent here that I understand why Brett would rather stockpile future assets than chase the final playoff spot.",
+      "But I also wouldn't have been in a hurry to sell Dobbins for a fourth, especially with how many contenders are beginning to lose running backs.",
+      "There are still several weeks before the trade deadline, and we've already watched the market for healthy veterans become more interesting with every new injury.",
+      "Brett has four first-round picks in reserve and is now collecting assets for 2029. The Dragons may eventually become a serious problem for the rest of the PDL.",
+      "I'm just increasingly curious which decade Brett intends to do it in."
+    ],
+    "12": [
+      "Tanish didn't play Jeff this week, but Jaxon Smith-Njigba apparently decided to take matters into his own hands.",
+      "Seattle handed the previously undefeated Chiefs a 20-3 ass-kicking on Sunday Night Football, with JSN catching nine passes for 150 yards and a touchdown.",
+      "Kansas City failed to reach the red zone for the first time in 153 Patrick Mahomes starts, including the playoffs.",
+      "Jeff owns Mahomes, Kenneth Walker and Travis Kelce, so I'm sure watching Tanish's receiver embarrass the entire operation was a wonderful way to spend his Sunday evening.",
+      "And JSN is now putting together one of the most ridiculous receiving seasons we've seen in years.",
+      "He's got 867 yards and eight touchdowns through seven games, something only Cooper Kupp accomplished this early in a season during the Super Bowl era.",
+      "Remember when we were discussing whether Tanish had enough receiving talent to defend his championship?",
+      "Turns out he has a guy making a legitimate run at the record books, and Malik Nabers is quietly working on his fourth consecutive 100-yard game.",
+      "The quarterbacks aren't making things any easier for the rest of us.",
+      "Thursday night's Patriots-Bears matchup featured Drake Maye and Caleb Williams combining for 629 passing yards and five total touchdowns.",
+      "Chicago won the actual game, Tanish got 56.56 fantasy points between them, and Jayden Daniels was enjoying his bye week.",
+      "The Bears haven't had a quarterback throw for 300 yards in consecutive games since Mitch \"I Love Kissing Titties\" Trubisky in 2018.",
+      "Caleb just accomplished that in his second game back from injury, which should tell you something about how miserable Chicago's quarterback situation has been for most of our adult lives.",
+      "Boulder finished with 151.26 points against Hollywood, improving to 6-1.",
+      "Cody White and Tyler Higbee combined for 4.30 points, while Rhamondre Stevenson contributed 20 from the bench.",
+      "Somehow, this wasn't even Tanish's best possible lineup, and he still comfortably cleared 150.",
+      "The concerns about depth haven't entirely disappeared, but they're becoming a pretty difficult argument to make when the Bears have scored 494.48 points over the past three weeks.",
+      "That's an average of nearly 165, and it's coming from the defending champion who already has a roster full of players we've spent months trying to convince him to trade.",
+      "Mike's two-game losing streak opens the door for Tanish to move up to #2, and I don't think there's much room for debate anymore.",
+      "Jeff still holds the top spot, but the gap has narrowed considerably.",
+      "I'd be a little concerned if I were Jeff.",
+      "Especially considering Tanish's best receiver just spent Sunday night making his favorite three Chiefs look like they were participating in a preseason walkthrough."
+    ]
+  },
+  "publishedAt": "2026-10-27T13:38:50.614Z",
+  "week": 7,
+  "stats": {
+    "1": {
+      "wins": 4,
+      "losses": 3,
+      "ties": 0,
+      "pf": 898.44,
+      "pa": 862.5,
+      "streak": "W2",
+      "form": [
+        "L",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "lastWk": 125.54,
+      "top": {
+        "name": "Jameson Williams",
+        "pos": "WR",
+        "pts": 23.6
+      },
+      "low": {
+        "name": "Aaron Jones Sr.",
+        "pos": "RB",
+        "pts": 3.1
+      }
+    },
+    "2": {
+      "wins": 0,
+      "losses": 7,
+      "ties": 0,
+      "pf": 257.44,
+      "pa": 848.28,
+      "streak": "L7",
+      "form": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "lastWk": 45.44,
+      "top": {
+        "name": "Mason Taylor",
+        "pos": "TE",
+        "pts": 25.2
+      },
+      "low": {
+        "name": "Kaleb Johnson",
+        "pos": "RB",
+        "pts": 0
+      }
+    },
+    "3": {
+      "wins": 6,
+      "losses": 1,
+      "ties": 0,
+      "pf": 1101.1,
+      "pa": 741.54,
+      "streak": "W1",
+      "form": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "lastWk": 145.28,
+      "top": {
+        "name": "Joe Burrow",
+        "pos": "QB",
+        "pts": 36.88
+      },
+      "low": {
+        "name": "Patrick Mahomes",
+        "pos": "QB",
+        "pts": 5
+      }
+    },
+    "4": {
+      "wins": 5,
+      "losses": 2,
+      "ties": 0,
+      "pf": 780.34,
+      "pa": 688.62,
+      "streak": "W4",
+      "form": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "lastWk": 89.24,
+      "top": {
+        "name": "C.J. Stroud",
+        "pos": "QB",
+        "pts": 20.52
+      },
+      "low": {
+        "name": "Jalen Coker",
+        "pos": "WR",
+        "pts": 1.4
+      }
+    },
+    "5": {
+      "wins": 0,
+      "losses": 7,
+      "ties": 0,
+      "pf": 395.04,
+      "pa": 939.06,
+      "streak": "L7",
+      "form": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "lastWk": 71.5,
+      "top": {
+        "name": "Omar Cooper Jr.",
+        "pos": "WR",
+        "pts": 20
+      },
+      "low": {
+        "name": "Jalon Daniels",
+        "pos": "QB",
+        "pts": -0.3
+      }
+    },
+    "6": {
+      "wins": 1,
+      "losses": 6,
+      "ties": 0,
+      "pf": 840.26,
+      "pa": 1008.88,
+      "streak": "L6",
+      "form": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "lastWk": 108.06,
+      "top": {
+        "name": "Kirk Cousins",
+        "pos": "QB",
+        "pts": 24.4
+      },
+      "low": {
+        "name": "Cade Otton",
+        "pos": "TE",
+        "pts": 0
+      }
+    },
+    "7": {
+      "wins": 4,
+      "losses": 3,
+      "ties": 0,
+      "pf": 1095.9,
+      "pa": 879.82,
+      "streak": "L1",
+      "form": [
+        "W",
+        "L",
+        "L",
+        "W",
+        "L"
+      ],
+      "lastWk": 153.52,
+      "top": {
+        "name": "Matthew Stafford",
+        "pos": "QB",
+        "pts": 22.5
+      },
+      "low": {
+        "name": "Garrett Wilson",
+        "pos": "WR",
+        "pts": 3.6
+      }
+    },
+    "8": {
+      "wins": 5,
+      "losses": 2,
+      "ties": 0,
+      "pf": 993.9,
+      "pa": 734.8,
+      "streak": "W3",
+      "form": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "lastWk": 172.5,
+      "top": {
+        "name": "Dak Prescott",
+        "pos": "QB",
+        "pts": 29.28
+      },
+      "low": {
+        "name": "DeMario Douglas",
+        "pos": "WR",
+        "pts": 3.8
+      }
+    },
+    "9": {
+      "wins": 3,
+      "losses": 4,
+      "ties": 0,
+      "pf": 851.48,
+      "pa": 868.7,
+      "streak": "W1",
+      "form": [
+        "W",
+        "L",
+        "L",
+        "L",
+        "W"
+      ],
+      "lastWk": 158.16,
+      "top": {
+        "name": "Geno Smith",
+        "pos": "QB",
+        "pts": 28.48
+      },
+      "low": {
+        "name": "Jaylin Noel",
+        "pos": "WR",
+        "pts": 0.7
+      }
+    },
+    "10": {
+      "wins": 5,
+      "losses": 2,
+      "ties": 0,
+      "pf": 1005.98,
+      "pa": 858.72,
+      "streak": "L2",
+      "form": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "L"
+      ],
+      "lastWk": 105.72,
+      "top": {
+        "name": "Puka Nacua",
+        "pos": "WR",
+        "pts": 17.8
+      },
+      "low": {
+        "name": "Sam LaPorta",
+        "pos": "TE",
+        "pts": 2.8
+      }
+    },
+    "11": {
+      "wins": 3,
+      "losses": 4,
+      "ties": 0,
+      "pf": 647.3,
+      "pa": 751.54,
+      "streak": "L1",
+      "form": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "L"
+      ],
+      "lastWk": 68.7,
+      "top": {
+        "name": "Colston Loveland",
+        "pos": "TE",
+        "pts": 19.9
+      },
+      "low": {
+        "name": "Trevor Lawrence",
+        "pos": "QB",
+        "pts": 0
+      }
+    },
+    "12": {
+      "wins": 6,
+      "losses": 1,
+      "ties": 0,
+      "pf": 1071.52,
+      "pa": 756.24,
+      "streak": "W5",
+      "form": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "lastWk": 151.26,
+      "top": {
+        "name": "Drake Maye",
+        "pos": "QB",
+        "pts": 30.44
+      },
+      "low": {
+        "name": "Cody White",
+        "pos": "WR",
+        "pts": 0.9
+      }
+    }
+  },
+  "awards": {
+    "hi": {
+      "team": "Dallas Drip",
+      "pts": 172.5
+    },
+    "lo": {
+      "team": "Connecticut Crocs",
+      "pts": 45.44
+    },
+    "margin": {
+      "pts": 17.739999999999995,
+      "note": "Murphy Street Empire  over Richmond Reavers"
+    },
+    "top": {
+      "name": "Joe Burrow",
+      "pts": 36.88,
+      "team": "Wichita Whirlwind"
+    },
+    "bust": {
+      "name": "Jalon Daniels",
+      "pts": -0.3,
+      "team": "Richmond Reavers"
+    },
+    "luck": {
+      "gap": 0.2857142857142857,
+      "note": "Hollywood Hu$tle",
+      "val": "1-6 real, 3-4 all-play"
+    }
+  }
+}
