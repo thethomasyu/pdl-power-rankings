@@ -1,0 +1,649 @@
+{
+  "issue": 9,
+  "title": "PDL Week 10",
+  "season": "2026",
+  "coldOpen": "Sorry, this one is late, guys. Welcome to Week 10 of the PDL Power Rankings.",
+  "order": [
+    3,
+    12,
+    7,
+    8,
+    10,
+    4,
+    9,
+    6,
+    11,
+    5,
+    2,
+    1
+  ],
+  "prevRanks": {
+    "1": 12,
+    "2": 11,
+    "3": 1,
+    "4": 6,
+    "5": 10,
+    "6": 8,
+    "7": 3,
+    "8": 4,
+    "9": 7,
+    "10": 5,
+    "11": 9,
+    "12": 2
+  },
+  "blurbs": {
+    "1": [
+      "Bro, I'm straight-up not having a good time."
+    ],
+    "2": [
+      "The NFL trade deadline came and went, with teams desperately trying to improve their rosters for the second half of the season.",
+      "Meanwhile, the biggest development in Connecticut was learning that Kyle McCord will be making his first NFL start on Sunday.",
+      "Miami placed Malik Willis on injured reserve, leaving McCord in charge of an offense that's currently 1-7.",
+      "He was drafted by Philadelphia, traded to Green Bay, and eventually shipped to Miami without ever appearing in a regular-season NFL game.",
+      "Sleeper has him projected for 13.15 points this week, which is a remarkable amount of confidence to place in a quarterback whose professional career has essentially been looking for apartment rentals in 3 different cities.",
+      "And his first opponent is Indianapolis, which just spent the trade deadline getting rid of Quenton Nelson, DeForest Buckner, Keenan Allen and Josh Downs.",
+      "The Colts are conducting a Greggy-inspired fire sale, the Dolphins are auditioning quarterbacks, and Joe has spent nine weeks demonstrating what happens when you combine both approaches.",
+      "Last week, Connecticut lost to Hollywood 136.80 to 35.36.",
+      "Brian and Brett just released another episode of Disrespected, and Joe immediately provided Brian with a 101-point victory to help support his case.",
+      "Brian has spent two months trying to convince everyone that Hollywood is better than its record suggests.",
+      "Joe managed to make him look like a contender in approximately three hours."
+    ],
+    "3": [
+      "Max is 7-2, ranked sixth, and Sleeper has him projected to lose to Jeff by 40 points this week.",
+      "175.90 points against Mike last week.",
+      "Joe Burrow scored 46.48, Kenneth Walker added 34.30, and Jeff handed Southern Oregon its fourth consecutive loss.",
+      "Wichita has now won eight of nine games, and that one loss came by just 2.50 points against Darren.",
+      "For all the money Jeff spent assembling this roster, it's almost disappointing that the results have been this straightforward.",
+      "He bought an absurd number of good football players, and they're scoring an absurd number of fantasy points.",
+      "I was hoping there would be more to criticize.",
+      "The receiving corps has certainly tried to give me something.",
+      "Davante Adams is on IR, A.J. Brown and Deebo Samuel are questionable, and Jeff is still relying on Zay Flowers and whichever receiver happens to be healthy on Sunday.",
+      "Yet he's projected for 163 points this week.",
+      "Kansas City even traded for Josh Downs at the NFL deadline, giving Patrick Mahomes another weapon.",
+      "Jeff already owns Mahomes, Walker and Kelce, so I'm beginning to wonder whether Brett Veach should be consulting him before making personnel decisions.",
+      "He probably has a stronger financial interest in the Chiefs' offense than some of their minority owners.",
+      "Sunday's matchup with Max is interesting because both teams are coming off huge quarterback performances.",
+      "C.J. Stroud scored 44.40 for Murphy Street, while Burrow nearly matched him with 46.48.",
+      "Max has spent most of the season getting considerably more production out of Bryce Young than anyone anticipated, and Stroud is starting to look dangerous again.",
+      "Of course, Jeff has Patrick Mahomes waiting in the other quarterback spot, which seems like a rather unfair advantage when we're discussing the possibility of Max's quarterbacks carrying him to an upset.",
+      "Burrow also gets Pittsburgh on Sunday Night Football, with first place in the AFC North at stake.",
+      "If Max is still within striking distance entering that game, he'll get to spend his entire Sunday evening hoping one of the NFL's best quarterbacks sharts James Cook-style.",
+      "I'm keeping Wichita first.",
+      "Tanish has been tremendous, Welch is making a legitimate argument to move up, and Darren has become one of the more dangerous teams in the league.",
+      "But Jeff's combination of quarterbacks and running backs gives him an advantage I still haven't overlooked.",
+      "I do have one concern about this weekend.",
+      "If Max wins, he'll be 8-2.",
+      "Jeff will also be 8-2.",
+      "I'll have ranked one of them first and the other sixth, and Max will have every right to bring that up for the remainder of the season.",
+      "Max and Welch have the chance to blow up the power rankings, and I'm here for it."
+    ],
+    "4": [
+      "C.J. Stroud was reportedly battling an illness before Sunday's game against the Chargers.",
+      "He proceeded to throw for 384 yards and five touchdowns, giving Max 44.40 fantasy points.",
+      "If I'm Max, I'm calling Houston's medical staff and asking them to stop trying to make him feel better.",
+      "The Stroud resurgence has been one of the more interesting developments in the NFL this season, especially considering how uncertain his future in Houston looked entering the year.",
+      "He's suddenly playing like the quarterback everyone thought they were getting after his rookie season, and Max has benefited tremendously from it.",
+      "Meanwhile, Bryce Young has become a pretty respectable fantasy quarterback himself.",
+      "He was QB6 in Week 8 and is currently QB11 on the season.",
+      "After all the quarterback shuffling Max has done, he might have actually found a combination worth keeping.",
+      "And we're looking at a 7-2 Murphy Street Empire team.",
+      "There are still reservations to be had with the roster, though.",
+      "Ja'Marr Chase is fantastic, but relying on Josh Coker, Caleb Douglas, and Carnell Tate to round out your receivers is asking an awful lot from players who are still figuring out their places in the NFL.",
+      "Woody Marks and Rachaad White are his projected starting running backs this week.",
+      "Max has spent years collecting running backs like Chase Brown, only to reach November with two guys who probably weren't in his plans when the season started.",
+      "To his credit, it hasn't stopped him from winning.",
+      "He handled Greg last week, Stroud has been excellent, and Kyle Pitts is having one of those seasons that occasionally reminds everyone why he was drafted fourth overall.",
+      "But now comes Jeff.",
+      "I cannot think of a better matchup to determine how seriously we should be taking Murphy Street.",
+      "Jeff has Patrick Mahomes, Joe Burrow, Derrick Henry, Kenneth Walker, Christian McCaffrey, and James Cook.",
+      "He has enough running backs to send Max a care package and still be favored by 30.",
+      "Sleeper currently projects Wichita to win by roughly 40 points, which is a pretty remarkable spread between two teams that have combined to win 15 of their first 18 games.",
+      "Max has spent much of the season hearing that his record is better than his roster.",
+      "I've contributed to that conversation myself, but look at how I've been doing this season; everything I say is wrong, so arrows up for MSE.",
+      "But if he beats Jeff this weekend, I'm going to have to start reconsidering some things.",
+      "We've spent months discussing Wichita, Boulder, and the other championship favorites while Max has quietly accumulated seven wins.",
+      "I suspect he'd enjoy nothing more than beating the team I've kept at #1 and then listening to me explain why he's still sixth.",
+      "MSE is the dark horse of the 2026 PDL season."
+    ],
+    "5": [
+      "On Tuesday, the Minnesota Vikings traded a 2027 third-round pick to the Raiders for Kirk Cousins.",
+      "That same afternoon, Brian traded a 2027 third-round pick AND Oronde Gadsden to Jon for Kirk Cousins.",
+      "An actual NFL franchise negotiated a better deal than Hollywood.",
+      "Remember, Brian originally traded Cousins to Richmond on October 30 for a 2028 fourth-round pick.",
+      "Eleven days later, he decided he wanted him back.",
+      "Jon essentially turned a fourth into a third and a promising young tight end, and even got to use Cousins to secure his first victory of the season before returning him.",
+      "I would love to know what happened during those eleven days that made Brian reconsider.",
+      "Did he miss Kirk?",
+      "Was there a particularly emotional conversation in the Disrespected production meeting?",
+      "Brian has now spent two trades negotiating with Jon over a quarterback he already owned, and somehow Jon walked away with more assets and the same number of Kirk Cousins.",
+      "Meanwhile, the actual Raiders traded Cousins to Minnesota and officially handed their offense to Fernando Mendoza.",
+      "Guess who owns Nando?",
+      "Jon has now managed to participate in two separate Kirk Cousins transactions, benefit from a third in the NFL, and end up with the rookie quarterback who replaced him.",
+      "Of course, we're still talking about a team that just lost to Darren by nearly 80 points.",
+      "Jon's rookie class has had its moments, but there's a considerable difference between accumulating promising young players and actually being able to start ten of them on a Sunday.",
+      "Mendoza finally getting his opportunity is a legitimate development for a roster that's spent most of the year waiting for the 2026 draft class to do something.",
+      "And Jon gets to test his newly promoted quarterback against the defending Super Bowl champion Seahawks.",
+      "Lovely.",
+      "Next up is Delco, the absolute worst team in the PDL.",
+      "Sleeper gives Jon a 22% chance of beating me.",
+      "Looks like the vibe coders at Sleeper need to push another update because that number is far too low."
+    ],
+    "6": [
+      "On the latest episode of Disrespected, Brian announced that Hollywood was finally done changing directions.",
+      "He had acquired Bijan Robinson, exhausted his first-round picks, and was committed to competing for the foreseeable future.",
+      "\"I'm glad to be rid of all my firsts,\" he explained. \"I have no choice but to stay the course.\"",
+      "Five days later, Brian traded for Kirk Cousins, whom he had traded away eleven days earlier.",
+      "I'm beginning to understand why Brian needs his own podcast.",
+      "There simply isn't enough time during ours to explain everything he's doing.",
+      "For anyone who missed the Bijan reunion, Brian sent Greg Emeka Egbuka, Jeremiah Love and his 2029 first to reacquire the player he originally drafted first overall.",
+      "He even admitted on the podcast that, when you account for everything he's spent trading Bijan away and eventually getting him back, he's paid considerably more than he should have.",
+      "Brian also mentioned that he's in 22 fantasy leagues, but the PDL is the only one where he tinkers this much.",
+      "I'm curious what happens in the other 21.",
+      "I will give Brian credit for something, though.",
+      "Hollywood has become a legitimately interesting team.",
+      "Jordan Love has been excellent, Bijan and Bhayshul Tuten give him a pretty formidable backfield, and Tee Higgins and Nico Collins are more than capable of carrying the receiving corps.",
+      "He has three viable starting quarterbacks again, and the younger pieces are developing.",
+      "Unfortunately, Brian is also 2-7.",
+      "He's openly acknowledged that catching Max in wins is unrealistic.",
+      "His plan is to accumulate enough points to claim the final playoff spot if the standings break his way.",
+      "He needs Darren and Mike to remain ahead of Max, Max to miss out on an automatic berth, and Hollywood to keep scoring.",
+      "Brian spent a good portion of Disrespected explaining the various scenarios required for this to happen, including why losing to Darren earlier in the season was actually beneficial to his playoff hopes.",
+      "I'm impressed he can keep track of all these possibilities when he apparently can't remember which team Kirk Cousins plays for.",
+      "And now he gets Greg, who traded him Bijan and Tee Higgins.",
+      "Brian is 2-7, Greg is 3-6, and between them they've spent the past month exchanging enough players to make this matchup feel like an awkward reunion.",
+      "I've been consistent in saying that I want to see Hollywood make the playoffs.",
+      "Partly because the roster is capable of causing problems for someone in December, but mostly because I want to hear the 90-minute Disrespected episode explaining how he planned all of this from the beginning.",
+      "Just last week, he told Brett that he couldn't possibly change directions anymore because he'd run out of first-round picks.",
+      "I give him until Thanksgiving."
+    ],
+    "7": [
+      "Jaylen Waddle is now a member of the Philadelphia Thunder, where he'll join CeeDee Lamb, Garrett Wilson, Matthew Golden, Luther Burden, DJ Moore and whatever other receivers Darren has accumulated while I wasn't paying attention.",
+      "For those who don't know, Darren has been pursuing Waddle for longer than Greggy has been trying to get Rome.",
+      "This really is the year of persistence.",
+      "The timing is interesting because Darren's biggest problem this week is at quarterback.",
+      "Sam Darnold is out, Baker Mayfield is on bye, Tua Tagovailoa has become a permanent resident of the zero-point club, and Anthony Richardson hasn't been relevant in months.",
+      "Darren has somehow assembled five quarterbacks and arrived at Week 10 with Matthew Stafford and Deshaun Watson as his only realistic options.",
+      "Naturally, he went shopping for another receiver.",
+      "Still, Philadelphia has been playing some excellent fantasy football.",
+      "After dropping 167.50 in Week 8, Darren followed it up with another 160 against Jon.",
+      "CeeDee and Matthew Golden combined for nearly 56 points, Brock Bowers continued his ridiculous season, and Javonte Williams is always a legitimate weekly contributor.",
+      "It's also worth appreciating how well Golden has developed.",
+      "He's now averaging over 15 points per game and has scored at least 17 in three of his last five.",
+      "Darren has been able to absorb Garrett Wilson's recent struggles without missing much offensively, and Waddle gives him another option once he's available.",
+      "The tight end situation is as good as Welch's: Bowers, Kittle and Hockenson.",
+      "Brett is next, and Sleeper gives Philadelphia an 88% chance of winning.",
+      "Darren should be able to handle this matchup even with the quarterback situation and several players on bye.",
+      "The bigger question is what happens when everyone is available again.",
+      "I'd be interested to see Darren explain which receivers he actually intends to start once Waddle returns.",
+      "Lamb isn't going anywhere, Golden has earned his spot, Wilson is too talented to dismiss, and Burden has been playing well enough to deserve consideration.",
+      "That's before getting into the tight ends.",
+      "Will the start/sit decisions come to haunt Darren again?"
+    ],
+    "8": [
+      "Jerry Jones spent Tuesday explaining why the 4-5 Dallas Cowboys didn't make a single move at the NFL trade deadline.",
+      "At one point, he told a Dallas radio station, \"When that phone's not ringing, that's me calling.\"",
+      "I have no idea what that means, but I'm beginning to think Welch could run the Cowboys better than Jerry.",
+      "He's 7-2, has won three straight, and has somehow managed to build a more competent Dallas football team without the benefit of an actual NFL salary cap.",
+      "Although, considering I've kept him fourth in these rankings, I'm probably not qualified to criticize anyone else's decision-making.",
+      "Welch followed up consecutive wins over Darren and Mike by putting another 146.80 on Brett.",
+      "Christian Watson caught seven passes for 171 yards against New England, giving Welch 26.60 points from a receiver on an absolute tear this season.",
+      "Three straight weeks of 142 or more points, with various combinations of players to get there.",
+      "I was particularly interested in watching Watson because Green Bay has been using him so aggressively downfield this season.",
+      "He's already had three games over 30 PPR points, and suddenly a receiver who was previously one of Welch's more frustrating options is capable of winning a matchup almost by himself.",
+      "Add that to Amon-Ra, London, McBride, Fannin and the rest of his roster, and there are fewer obvious places for opponents to attack.",
+      "Of course, Welch has accumulated approximately half the quarterbacks in the NFC, and I'm still not convinced he knows which two he wants to start every Sunday.",
+      "Now he faces Tanish.",
+      "Boulder is 8-1, coming off another championship-caliber performance, and Sleeper has the Bears favored by roughly 23 points.",
+      "It's the first matchup in a while where Welch is a substantial underdog, despite having already beaten two of the teams we've spent the season discussing as legitimate title threats.",
+      "I think Tanish should be favored. His roster has earned that respect.",
+      "But Welch has a legitimate opportunity to make a statement here, especially with his Goff and Amon-Ra stack back together against New Orleans.",
+      "If he beats Tanish, this team will propel up the board."
+    ],
+    "9": [
+      "Greg hasn't appeared on the podcast in weeks, but he did manage to get Brian and Brett to record a 31-minute episode of Disrespected explaining a trade he made with them.",
+      "That's pretty impressive considering Greg didn't have to participate in any of it.",
+      "Brian sent Jeremiah Love, Emeka Egbuka and his 2029 first to London for Bijan Robinson, whom he originally traded to Greg for Ladd McConkey, a first and a second.",
+      "I'm starting to think Greg should just keep a list of former Hollywood players and periodically offer to sell them back to Brian.",
+      "And I actually think Greg did extremely well here.",
+      "He gets a young running back with tremendous upside, a receiver who immediately becomes one of his better long-term assets, and another first-round pick.",
+      "Jeremiah Love being on IR isn't particularly concerning for someone who's already spent the past month preparing for next season.",
+      "The Cardinals employing Gardner Minshew and Carson Beck is a considerably bigger concern, but Greg has three years to figure out whether he wants to worry about that.",
+      "Meanwhile, Breece Hall and Quinshon Judkins are still on the roster.",
+      "Rome Odunze is still there, too, despite the entire league spending the offseason trying to understand what Greg saw in that trade.",
+      "He also picked up Khalil Shakir for a 2029 third.",
+      "There's some interesting talent here, especially if Greg eventually decides to start keeping his players again.",
+      "Greg plays Brian this week like I mentioned previously.",
+      "After spending the past month trading away players who were supposed to help him compete for a championship, Greg gets to face the man who now employs Bijan Robinson and Tee Higgins.",
+      "Sleeper gives Hollywood a 71% chance of winning, and Brian has already spent an entire podcast explaining why his new roster is ready to make a playoff push.",
+      "I'd love to see Greg win this one.",
+      "He already beat Mike a few weeks ago, which remains one of the more amusing developments of this season.",
+      "Beating Brian immediately after selling him Bijan would be considerably better, especially with Brian desperately trying to reach the sixth seed with points so he doesn't even care if he wins.",
+      "And with both Jeremiah Love on IR and Egbuka on bye, Greg won't even be able to use either player against him.",
+      "I hope Bijan scores 30 and Greg wins anyway.",
+      "I want to see Brian release another emergency episode of Disrespected explaining why losing this particular game was actually necessary for his playoff chances."
+    ],
+    "10": [
+      "On the podcast, Darren spent several minutes explaining how Mike could realistically win four straight games and be back among the contenders by Week 13.",
+      "The schedule was favorable, the roster was loaded, and all Mike needed was to get past Jeff.",
+      "Jeff beat him by 47.56 points.",
+      "Three days later, Mike traded Jaylen Waddle to Darren.",
+      "I'm beginning to suspect Darren had an ulterior motive when he was offering all that encouragement.",
+      "Mike has now lost four consecutive games after starting 5-0, which is an impressive way to turn the best opening month in the PDL into a November discussion about whether you should start selling players.",
+      "And apparently, Mike has decided to entertain the discussion.",
+      "He received a 2028 second and fourth for Waddle, who was acquired by the Denver Broncos earlier this year in a package involving a first, third and fourth.",
+      "Darren managed to get him for considerably less, and the timing couldn't have been better.",
+      "He's 6-3, coming off another strong performance, and just added another receiver to a team that's already looking increasingly dangerous.",
+      "Mike, meanwhile, is 5-4 and trying to make the playoffs.",
+      "I don't necessarily hate the return, but I'm struggling to understand why Mike is helping improve a potential playoff opponent when his own season is unraveling.",
+      "He's already dealing with Puka Nacua's injury, and his running backs haven't exactly been carrying the team recently.",
+      "Now he's voluntarily removing another established receiver from the roster.",
+      "And those 2028 picks aren't going to become more valuable if Darren keeps winning games with Waddle.",
+      "The frustrating thing is that Mike still has a tremendous amount of talent.",
+      "Josh Allen, Brock Purdy, Justin Jefferson, George Pickens, Chris Olave, Ashton Jeanty.",
+      "There's a reason everyone kept predicting he'd bounce back.",
+      "I still think this roster is capable of competing with anyone in the league.",
+      "But four consecutive losses are four consecutive losses, and I understand why the mood has changed.",
+      "We've spent so much time listening to Mike complain about his team that I think some of us assumed he'd eventually be proven wrong.",
+      "He's been doing a pretty good job of making his case lately.",
+      "Fortunately, Connecticut is next.",
+      "Sleeper projects Mike to win by roughly 92 points, so the losing streak should finally end without requiring him to make any additional personnel decisions.",
+      "I'd normally say that beating Joe won't tell us much about whether Southern Oregon is back.",
+      "At this point, Mike might just appreciate being able to open Sleeper on Monday morning without immediately checking the trade block."
+    ],
+    "11": [
+      "Trevor Lawrence's NFL team just traded for Jessie Bates, Jordan Davis and Davon Godchaux in an attempt to win a Super Bowl.",
+      "Meanwhile, his PDL team has spent the past month acquiring 2029 third- and fourth-round picks.",
+      "Brett has now traded J.K. Dobbins for a 2029 fourth and Khalil Shakir for a 2029 third.",
+      "I understand the appeal of accumulating future assets, especially when you've already assembled a promising young core.",
+      "But something came up on the podcast that made these moves considerably harder to understand.",
+      "According to the guys' calculations, Brett is roughly 350 maximum-potential points ahead of Jon and nearly 200 behind the next team in the draft order.",
+      "Barring something extraordinary, he's practically guaranteed the third pick in 2027.",
+      "He can't realistically catch Joe or Jon, and he's not in much danger of falling to fourth.",
+      "If Brett is shedding points to improve his draft position, he's accomplishing absolutely nothing.",
+      "And if he's simply trying to accumulate future picks, I have a difficult time believing that a fourth-round selection three years from now is worth giving up a productive running back when you're still technically in the playoff race.",
+      "The immediate consequence is a roster that's becoming increasingly difficult to start.",
+      "Jonah Coleman has been one of the more promising developments in Denver, but he's on bye this week.",
+      "Brett is left starting Omarion Hampton and Keaton Mitchell, who are projected to combine for approximately 12 points.",
+      "He also has Tucker Kraft, Colston Loveland and AJ Barner, which is a pretty impressive collection of young tight ends for someone whose running back situation is getting progressively worse.",
+      "Trevor Lawrence has been playing well, Tetairoa McMillan and DeAndre Boston have legitimate upside, and there's enough young talent here to make Dubrovnik interesting in another year or two.",
+      "The problem is that Brett seems increasingly willing to sacrifice the current season without getting much in return for doing so.",
+      "Last week, Dallas handed him another loss, 146.80 to 94.88.",
+      "He's now 3-6, and Darren is next on the schedule with Sleeper projecting Philadelphia to score nearly 160 points.",
+      "Brett and Brian recently released another episode of Disrespected.",
+      "Between them, they've won five games through nine weeks, and Brian has at least responded by going out and acquiring Bijan Robinson.",
+      "Dubrovnik continues the rebuild."
+    ],
+    "12": [
+      "Tanish finally had a bad week.",
+      "Jonathan Taylor scored 6.90, JSN had 8.60, Malik Nabers finished with 6.80, and Boulder put up 103.42 points.",
+      "Six other teams in the PDL outscored him.",
+      "Naturally, he won.",
+      "Greg managed 88.18, allowing the defending champion to improve to 8-1 despite having one of his least impressive performances of the season.",
+      "I was hoping we'd at least get a little adversity out of this.",
+      "Instead, Tanish got another win and probably spent the rest of Sunday doing something productive with his life.",
+      "It must be nice.",
+      "And we're still looking at an incredibly difficult roster to beat when everyone is playing well.",
+      "Taylor and Chuba Hubbard have given Tanish a dependable backfield, JSN has been ridiculous, and Drake Maye has developed into one of the best fantasy quarterbacks in football.",
+      "Malik Nabers hasn't even approached the production we know he's capable of, which is pretty insane considering Boulder has already won eight games.",
+      "But I am curious how much of that 8-1 record is going to matter when he faces Welch this week.",
+      "Dallas has been one of the hottest teams in the league, with three consecutive wins and victories over both Darren and Mike.",
+      "Welch has spent most of the season trying to convince everyone he's a championship contender, and beating the defending champion would make that argument considerably harder to dismiss.",
+      "Conveniently, the NFL has arranged for this particular argument to begin in Germany.",
+      "Drake Maye and Jared Goff face each other in Munich at 9:30 Sunday morning.",
+      "Tanish has Maye, while Welch has Goff and Amon-Ra St. Brown.",
+      "Every Goff touchdown to Amon-Ra will count twice for Welch, so Tanish could find himself down 30 points before most of us have finished breakfast.",
+      "And I love that the two of them will have to sit through the same game knowing exactly what every touchdown means for the other guy.",
+      "Sleeper favors Boulder by about 23 points, which feels reasonable given the roster.",
+      "Still, I wouldn't be particularly comfortable handing Welch that much room to complain about being underrated if he manages to pull this off.",
+      "The more interesting consequence is what happens to these rankings.",
+      "Tanish is 8-1, Jeff is 8-1, and I've kept them first and second for a reason.",
+      "But Welch has been making his case for weeks, and he's finally getting the head-to-head opportunity he needs.",
+      "I just hope Tanish understands how much trouble he's going to cause me if he loses."
+    ]
+  },
+  "publishedAt": "2026-11-12T14:07:34.110Z",
+  "week": 9,
+  "stats": {
+    "1": {
+      "wins": 4,
+      "losses": 5,
+      "ties": 0,
+      "pf": 1050.84,
+      "pa": 1147.54,
+      "streak": "L2",
+      "form": [
+        "L",
+        "W",
+        "W",
+        "L",
+        "L"
+      ],
+      "lastWk": 68.1,
+      "top": {
+        "name": "Tyler Shough",
+        "pos": "QB",
+        "pts": 21.7
+      },
+      "low": {
+        "name": "Joe Fagnano",
+        "pos": "QB",
+        "pts": -2.3
+      }
+    },
+    "2": {
+      "wins": 0,
+      "losses": 9,
+      "ties": 0,
+      "pf": 322.88,
+      "pa": 1061.36,
+      "streak": "L9",
+      "form": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "lastWk": 35.36,
+      "top": {
+        "name": "Joe Milton",
+        "pos": "QB",
+        "pts": 13.16
+      },
+      "low": {
+        "name": "Chris Bell",
+        "pos": "WR",
+        "pts": 0
+      }
+    },
+    "3": {
+      "wins": 8,
+      "losses": 1,
+      "ties": 0,
+      "pf": 1422.42,
+      "pa": 978.48,
+      "streak": "W3",
+      "form": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "lastWk": 175.9,
+      "top": {
+        "name": "Joe Burrow",
+        "pos": "QB",
+        "pts": 35.54
+      },
+      "low": {
+        "name": "Zay Flowers",
+        "pos": "WR",
+        "pts": 3.8
+      }
+    },
+    "4": {
+      "wins": 7,
+      "losses": 2,
+      "ties": 0,
+      "pf": 1051.66,
+      "pa": 856.1,
+      "streak": "W6",
+      "form": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "lastWk": 138.2,
+      "top": {
+        "name": "C.J. Stroud",
+        "pos": "QB",
+        "pts": 44.36
+      },
+      "low": {
+        "name": "Ladd McConkey",
+        "pos": "WR",
+        "pts": 0
+      }
+    },
+    "5": {
+      "wins": 1,
+      "losses": 8,
+      "ties": 0,
+      "pf": 552.44,
+      "pa": 1129.18,
+      "streak": "L1",
+      "form": [
+        "L",
+        "L",
+        "L",
+        "W",
+        "L"
+      ],
+      "lastWk": 81.12,
+      "top": {
+        "name": "Shedeur Sanders",
+        "pos": "QB",
+        "pts": 26.68
+      },
+      "low": {
+        "name": "Mike Washington Jr.",
+        "pos": "RB",
+        "pts": -0.3
+      }
+    },
+    "6": {
+      "wins": 2,
+      "losses": 7,
+      "ties": 0,
+      "pf": 1116.98,
+      "pa": 1211.74,
+      "streak": "W1",
+      "form": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "W"
+      ],
+      "lastWk": 136.8,
+      "top": {
+        "name": "Jordan Love",
+        "pos": "QB",
+        "pts": 42.18
+      },
+      "low": {
+        "name": "Malik Willis",
+        "pos": "QB",
+        "pts": 2.82
+      }
+    },
+    "7": {
+      "wins": 6,
+      "losses": 3,
+      "ties": 0,
+      "pf": 1423.44,
+      "pa": 1100.86,
+      "streak": "W2",
+      "form": [
+        "L",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "lastWk": 160.04,
+      "top": {
+        "name": "CeeDee Lamb",
+        "pos": "WR",
+        "pts": 28.5
+      },
+      "low": {
+        "name": "D'Andre Swift",
+        "pos": "RB",
+        "pts": 3.1
+      }
+    },
+    "8": {
+      "wins": 7,
+      "losses": 2,
+      "ties": 0,
+      "pf": 1283.26,
+      "pa": 941.54,
+      "streak": "W5",
+      "form": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "lastWk": 146.8,
+      "top": {
+        "name": "Christian Watson",
+        "pos": "WR",
+        "pts": 26.6
+      },
+      "low": {
+        "name": "Jared Goff",
+        "pos": "QB",
+        "pts": 4.3
+      }
+    },
+    "9": {
+      "wins": 3,
+      "losses": 6,
+      "ties": 0,
+      "pf": 1038.94,
+      "pa": 1105.24,
+      "streak": "L2",
+      "form": [
+        "L",
+        "L",
+        "W",
+        "L",
+        "L"
+      ],
+      "lastWk": 88.18,
+      "top": {
+        "name": "Bo Nix",
+        "pos": "QB",
+        "pts": 18.68
+      },
+      "low": {
+        "name": "Adonai Mitchell",
+        "pos": "WR",
+        "pts": 0
+      }
+    },
+    "10": {
+      "wins": 5,
+      "losses": 4,
+      "ties": 0,
+      "pf": 1246.18,
+      "pa": 1177.08,
+      "streak": "L4",
+      "form": [
+        "W",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "lastWk": 128.34,
+      "top": {
+        "name": "Brock Purdy",
+        "pos": "QB",
+        "pts": 28.28
+      },
+      "low": {
+        "name": "Jaylen Waddle",
+        "pos": "WR",
+        "pts": 2.7
+      }
+    },
+    "11": {
+      "wins": 3,
+      "losses": 6,
+      "ties": 0,
+      "pf": 850.78,
+      "pa": 1043.76,
+      "streak": "L3",
+      "form": [
+        "W",
+        "W",
+        "L",
+        "L",
+        "L"
+      ],
+      "lastWk": 94.88,
+      "top": {
+        "name": "Jonah Coleman",
+        "pos": "RB",
+        "pts": 16.8
+      },
+      "low": {
+        "name": "Ja'Kobi Lane",
+        "pos": "WR",
+        "pts": 0
+      }
+    },
+    "12": {
+      "wins": 8,
+      "losses": 1,
+      "ties": 0,
+      "pf": 1321.78,
+      "pa": 928.72,
+      "streak": "W7",
+      "form": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "lastWk": 103.42,
+      "top": {
+        "name": "Drake Maye",
+        "pos": "QB",
+        "pts": 21.26
+      },
+      "low": {
+        "name": "Dalton Kincaid",
+        "pos": "TE",
+        "pts": 5.8
+      }
+    }
+  },
+  "awards": {
+    "hi": {
+      "team": "Wichita Whirlwind",
+      "pts": 175.9
+    },
+    "lo": {
+      "team": "Connecticut Crocs",
+      "pts": 35.36
+    },
+    "margin": {
+      "pts": 15.239999999999995,
+      "note": "Boulder Bears over London Monarchs"
+    },
+    "top": {
+      "name": "C.J. Stroud",
+      "pts": 44.36,
+      "team": "Murphy Street Empire "
+    },
+    "bust": {
+      "name": "Joe Fagnano",
+      "pts": -2.3,
+      "team": "Delco Dreamers"
+    },
+    "luck": {
+      "gap": 0.25252525252525254,
+      "note": "Hollywood Hu$tle",
+      "val": "2-7 real, 4-5 all-play"
+    }
+  }
+}
